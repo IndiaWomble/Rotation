@@ -1,0 +1,12 @@
+﻿  Source.cpp
+d:\games\c++ games\rotation\rotation\angel.h(66): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\games\c++ games\rotation\rotation\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\rotation\rotation\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\rotation\rotation\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\rotation\rotation\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\rotation\rotation\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\rotation\rotation\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\rotation\rotation\mat.h(742): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\rotation\rotation\source.cpp(28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\games\c++ games\rotation\rotation\source.cpp(29): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  rotation.vcxproj -> D:\Games\C++ games\rotation\Debug\rotation.exe
